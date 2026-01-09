@@ -17,6 +17,4 @@ Here are some ideas to get you started:
 
 I am learning programming
 
-My English is very poor
-
 I am also lazy
