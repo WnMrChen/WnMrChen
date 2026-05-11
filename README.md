@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 
 # WN_Mr_chen
 
-I am learning programming
-
-I am also lazy
+Curious about everything, wanting to learn everything.
